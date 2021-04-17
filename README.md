@@ -1,6 +1,6 @@
-# POLL Aplication develop on the Udemy course
+# Aplication developed on the Udemy course
 
-This is a small functional application build at Udemy Course.
+This is a small functional application build as practical example on the Udemy Course.
 
 Covers:
 
@@ -22,4 +22,4 @@ Technologies:
 
 Blockchain Web Development on Ethereum 2021
 
-- [Gregory Udemy course](https://www.udemy.com/course/complete-blockchain-web-application-course-on-ethereum)
+- [Tomas Mikula Udemy course](https://www.udemy.com/course/complete-blockchain-web-application-course-on-ethereum)
