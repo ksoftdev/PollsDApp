@@ -17,6 +17,7 @@ Technologies:
 - Ethereum Blockchain
 - Smart Contracts
 - Angular JS
+- TypeScript
 
 ## Credits
 
