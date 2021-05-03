@@ -20,6 +20,10 @@ export class AppComponent {
     this.ps.onEvent('PollCreated').subscribe(() => {
       this.polls = this.ps.getPolls();
     });
+
+    this.ps.onEvent('VoteSubmitted').subscribe(() => {
+      this.polls = this.ps.getPolls();
+    });
   }
 
   setActivePoll(poll) {
